@@ -26,4 +26,4 @@ Possible contributions for nice graphics:
 # License
 
 This is licensed under the "Creative Commons Attribution-ShareAlike 4.0 International Public License"  
-See the included [LICENSE.md]() for details.
+See the included [License](LICENSE.md) for details.
